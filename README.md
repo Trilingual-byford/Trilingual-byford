@@ -109,18 +109,19 @@ Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ 
 
 【発揮したバリュー】ここも学習能力の高さを発揮、ActionScriptとJenkins短期間で学習しキャッチアップ。本アプリのコーアの部分音声周りの機能を実装しました.まだ、ソースコードを読む能力により、アプリ潜在バグをCoding段階で解消できた。
 
-### 某社自動車保険サービス/FrontEnd/BackEnd【Java/Vue.js/Jest/Oracle/Spring framework/】(2019年)
+### 某社自動車保険サービス/FrontEnd/BackEnd【Java/Vue.js/Jest/Oracle/Spring Framework/Webpack/Github】(2019年)
 
-【プロジェクト概要】最新音声認識APIを利用し英会話練習レッスン・英語テストサポートなどサービスを提供するアプリ
+【プロジェクト概要】某社の自動車保険サービスのFrontEndとBackEnd
 
 【担当業務】アプリ全体のアーキテクチャ設計、JenkinsによるCI/CD環境の構築、画面及び音声周りに機能を担当。具体的には下記。
 
-- 音声認識APIを駆使し、アプリの録音・再生機能と組み合わせて便利な音声認識ライブラリを作成
-- 技術サポート(主にAnimationの実装)
-- 単体テスト・結合テスト
-- 新しいフィーチャーのため、音声システムのアーキテクチャ(録音、再生、保存)の改修
-- APIを使ってレッスンデータを保存・運用
-- Jenkins　CI Pipelineの導入
+- 開発環境構築・Document化
+- 技術サポート(Jestテスト)
+- ソースレビュー
+- 保険見積もりAPI実装
+- Atomic Designにより、UIの単位定義
+- FrontEndのリーダーはアメリカ人のため、英語を使って意思疎通・意見交換を行いました
+- Gitサポート（Conflictの解消、Rebaseなど）
 
 【発揮したバリュー】ここも学習能力の高さを発揮、ActionScriptとJenkins短期間で学習しキャッチアップ。本アプリのコーアの部分音声周りの機能を実装しました.まだ、ソースコードを読む能力により、アプリ潜在バグをCoding段階で解消できた。
 
