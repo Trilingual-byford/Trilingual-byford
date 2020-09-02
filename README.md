@@ -64,12 +64,16 @@ Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ 
 - local/dev/prod環境の切り分け
 - Gitブランチモデルの定義
 - アプリケーションのマイクロサービス化
+- OpenSource技術導入
 - 認証サービスの導入
 - CDNの導入
 - 新しい技術での開発
 - CIサービスの導入
 - コンテナ化(Docker化)
 - 機能要件と非機能要件の実装
+- インフラ環境構築・管理・保守
+- ソースコードを読む能力が要求される業務
+- 英会話・英語が知る前提の業務
 
 ## 主な業務経歴
 
