@@ -73,7 +73,7 @@ Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ 
 
 ## 主な業務経歴
 
-### BtoBサービスの宅配アプリ開発【TypeScript/AndroidStudio/Xcode/Git/Jira/Azure/Sketch/SketchCloud】(2020年〜現在)
+### BtoBサービスの宅配アプリ開発【TypeScript/AndroidStudio/React・React Native/Xcode/Git/Jira/Azure/Sketch/SketchCloud】(2020年〜現在)
 
 【プロジェクト概要】BtoBサービスの宅配新規開発チームにおいて、UI・UXの実装/CI基盤構築、新機能の導入・検討の開発作業等を担当
 
@@ -90,7 +90,7 @@ Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ 
  - Gitブランチ管理
  - 画面設計書・画面遷移図作成
  - 最新のNeedsにより、デザイン作成・仕様改修
- - APIMOCKサーバーの導入及び更新
+ - APIMockサーバーの導入及び更新
 
 【発揮したバリュー】マップの実装もTypeScirptもは全く未経験であったが、書籍やネット上の情報、およびチームリーダーのサポートを得て迅速にキャッチアップ、この時点ではチームリーダーも知らなかったAndroidとIOSカメラの権限申請Flowを調査および理解してアプリに落としこむ等、ここでも学習能力の高さを発揮。まだ[ソースコードを読む能力]とInformation検索が高いため、技術選択とライブラリの使い方の共有とタスク見える化(看板を使う)に役に立った
 
@@ -109,7 +109,7 @@ Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ 
 
 【発揮したバリュー】ここも学習能力の高さを発揮、ActionScriptとJenkins短期間で学習しキャッチアップ。本アプリのコーアの部分音声周りの機能を実装しました.まだ、ソースコードを読む能力により、アプリ潜在バグをCoding段階で半分以上解消できた。
 
-### 某社自動車保険サービス/FrontEnd/BackEnd【Java/Vue.js/Jest/Oracle/Redis/Spring Framework/Webpack/Github】(2019年)
+### 某社自動車保険サービス/FrontEnd/BackEnd【Java/Vue.js/Jest/Oracle/Redis/Spring Framework/Webpack/Github/maven】(2019年)
 
 【プロジェクト概要】某社の自動車保険サービスのFrontEndとBackEnd
 
@@ -124,7 +124,20 @@ Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ 
 - Gitサポート（Conflictの解消、Rebaseなど）
 - テスト環境の導入
 
-【発揮したバリュー】Vue.jsに初経験であったが、持ち前の速習力を発揮して短期間でキャッチアップ。技術調査チームいおけるJest周りのテストケースの書き方を調査し、開発チームメンバーとテストケースの書き方を共有しました、JavaScript/Java/Spring Framework/Vue.jsと、多言語・フレームワークを行き来する環境であったが、強みである速習力とユーティリティ性を発揮して多面的にチームに貢献。
+【発揮したバリュー】Vue.jsに初経験であったが、持ち前の速習力を発揮して短期間でキャッチアップ。技術調査チームいおけるJest周りのテストケースの書き方を調査し、開発チームメンバーとテストケースの書き方を共有しました、JavaScript/Java/Spring Framework/Vue.jsと、多言語・フレームワークを行き来する環Rであったが、強みである速習力とユーティリティ性を発揮して多面的にチームに貢献。
 
+### 某大手銀行の公式アプリ【Java/MVP/JavaScript/Retrofit/Realm/MoneyTreeApi/Xcode/Swift/GitLab/TestFlight/Module化】(2018年)
 
+【プロジェクト概要】大手銀行の公式アプリの開発
 
+【担当業務】アプリ全体のアーキテクチャ設計(MVP)、TestFlightによるCD環境の構築、画面周りの機能実装・テスト。
+
+- Android/IOS 実機テスト・単体テスト・結合テスト
+- Mockサーバー導入
+- Charlieバグ環境構築・指導
+- 家計管理Moduleの画面実装
+- 画面遷移図の制作
+- 仕様変更対応
+- Gitサポート（Conflictの解消、Rebaseなど）
+- Android多言語対応
+【発揮したバリュー】工事中...
