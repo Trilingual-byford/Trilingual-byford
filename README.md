@@ -8,7 +8,7 @@
 - 📫 How to reach me: niconicocsc@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> The first oranges weren’t orange
 # 業務経歴書
 
 ## 基本情報
@@ -17,7 +17,7 @@
 |----|----|
 |名前|Chen BoFeng|
 |現住地|東京大田区大森|
-|ポートフォリオ|[Gnemes](https://github.com/Trilingual-byford/GNEMES) (工事中)|
+|ポートフォリオ|[Gnemes](https://github.com/Trilingual-byford/Gnemes) (工事中)|
 |英語力|ハーフNativeレベル|
 |日本語力|上級者|
 ## 概要
