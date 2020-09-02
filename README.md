@@ -107,9 +107,9 @@ Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ 
 - APIを使ってレッスンデータを保存・運用
 - Jenkins　CI Pipelineの導入
 
-【発揮したバリュー】ここも学習能力の高さを発揮、ActionScriptとJenkins短期間で学習しキャッチアップ。本アプリのコーアの部分音声周りの機能を実装しました.まだ、ソースコードを読む能力により、アプリ潜在バグをCoding段階で解消できた。
+【発揮したバリュー】ここも学習能力の高さを発揮、ActionScriptとJenkins短期間で学習しキャッチアップ。本アプリのコーアの部分音声周りの機能を実装しました.まだ、ソースコードを読む能力により、アプリ潜在バグをCoding段階で半分以上解消できた。
 
-### 某社自動車保険サービス/FrontEnd/BackEnd【Java/Vue.js/Jest/Oracle/Spring Framework/Webpack/Github】(2019年)
+### 某社自動車保険サービス/FrontEnd/BackEnd【Java/Vue.js/Jest/Oracle/Redis/Spring Framework/Webpack/Github】(2019年)
 
 【プロジェクト概要】某社の自動車保険サービスのFrontEndとBackEnd
 
@@ -122,7 +122,9 @@ Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ 
 - Atomic Designにより、UIの単位定義
 - FrontEndのリーダーはアメリカ人のため、英語を使って意思疎通・意見交換を行いました
 - Gitサポート（Conflictの解消、Rebaseなど）
+- テスト環境の導入
 
-【発揮したバリュー】ここも学習能力の高さを発揮、ActionScriptとJenkins短期間で学習しキャッチアップ。本アプリのコーアの部分音声周りの機能を実装しました.まだ、ソースコードを読む能力により、アプリ潜在バグをCoding段階で解消できた。
+【発揮したバリュー】Vue.jsに初経験であったが、持ち前の速習力を発揮して短期間でキャッチアップ。技術調査チームいおけるJest周りのテストケースの書き方を調査し、開発チームメンバーとテストケースの書き方を共有しました、JavaScript/Java/Spring Framework/Vue.jsと、多言語・フレームワークを行き来する環境であったが、強みである速習力とユーティリティ性を発揮して多面的にチームに貢献。
+
 
 
