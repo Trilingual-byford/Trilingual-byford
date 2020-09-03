@@ -20,6 +20,8 @@
 |ポートフォリオ|[Gnemes](https://github.com/Trilingual-byford/Gnemes) (工事中)|
 |英語力|ハーフNativeレベル|
 |日本語力|上級者|
+|年齢|二十代|
+
 ## 概要
 
 工事中
