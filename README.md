@@ -147,4 +147,4 @@ Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ 
 - Gitサポート（Conflictの解消、Rebaseなど）
 - Android多言語対応
 
-【発揮したバリュー】工事中...
+【発揮したバリュー】工事中..
