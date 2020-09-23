@@ -115,7 +115,7 @@ Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ 
 
 【発揮したバリュー】ここも学習能力の高さを発揮、ActionScriptとJenkins短期間で学習しキャッチアップ。本アプリのコーアの部分音声周りの機能を実装しました.まだ、ソースコードを読む能力により、アプリ潜在バグをCoding段階で半分以上解消できた。
 
-### 某社自動車保険サービス/FrontEnd/BackEnd【Java/Vue.js/Jest/Oracle/Redis/Spring Framework/Webpack/Github/maven】(2019年)
+### 某社自動車保険サービス/FrontEnd/BackEnd【Kotlin/Vue.js/Jest/Oracle/Redis/Spring Framework/Webpack/Github/maven】(2019年)
 
 【プロジェクト概要】某社の自動車保険サービスのFrontEndとBackEnd
 
@@ -132,7 +132,7 @@ Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ 
 
 【発揮したバリュー】Vue.jsに初経験であったが、持ち前の速習力を発揮して短期間でキャッチアップ。技術調査チームいおけるJest周りのテストケースの書き方を調査し、開発チームメンバーとテストケースの書き方を共有しました、JavaScript/Java/Spring Framework/Vue.jsと、多言語・フレームワークを行き来する環Rであったが、強みである速習力とユーティリティ性を発揮して多面的にチームに貢献。
 
-### 某大手銀行の公式アプリ【Java/MVP/JavaScript/Retrofit/Realm/MoneyTreeApi/Xcode/Swift/GitLab/TestFlight/Module化】(2018年)
+### 某大手銀行の公式アプリ【Kotlin/MVP/JavaScript/Retrofit/Realm/MoneyTreeApi/Xcode/Swift/GitLab/TestFlight/Module化】(2018年)
 
 【プロジェクト概要】大手銀行の公式アプリの開発
 
@@ -145,6 +145,6 @@ Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ 
 - 画面遷移図の制作
 - 仕様変更対応
 - Gitサポート（Conflictの解消、Rebaseなど）
-- Android多言語対応
+- Android多言語対応 
 
 【発揮したバリュー】工事中..
