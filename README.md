@@ -115,7 +115,7 @@ Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ 
 
 【発揮したバリュー】ここも学習能力の高さを発揮、ActionScriptとJenkins短期間で学習しキャッチアップ。本アプリのコーアの部分音声周りの機能を実装しました.まだ、ソースコードを読む能力により、アプリ潜在バグをCoding段階で半分以上解消できた。
 
-### 某社自動車保険サービス/FrontEnd/BackEnd【Kotlin/Vue.js/Jest/Oracle/Redis/Spring Framework/Webpack/Github/maven】(2019年)
+### 某社自動車保険サービス/FrontEnd/BackEnd【Java/Vue.js/Jest/Oracle/Redis/Spring Framework/Webpack/Github/maven】(2019年)
 
 【プロジェクト概要】某社の自動車保険サービスのFrontEndとBackEnd
 
