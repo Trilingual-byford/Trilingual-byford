@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋.
 
 - 🔭 I’m currently working on a new portfolio app Gnemes.
 - 🌱 I’m currently learning the design of Distributed Systems.
