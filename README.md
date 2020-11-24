@@ -53,11 +53,12 @@ S3 | API Gateway | EC2 | EKS(Kubernetes) | IAM | RDS(MySQL|PostgreSQL)
 GitHub | BitBucket(Stash) | CircleCI | TestFlight
 
 ### よく使うIDE
-IntelliJ | WebStorm | AndroidStudo | Visual Studio Code | VIM
+
+IntelliJ | WebStorm | AndroidStudo | Visual Studio Code
 
 ### その他
 
-Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ |DHCP
+Kubernetes | Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ |DHCP
 ## バリューを発揮しやすい業務
 
 - 基盤コード開発
