@@ -1,6 +1,6 @@
 ### Hi there 👋.
 
-- 🔭 I’m currently working on a new portfolio app Gnemes and learning Go Language..！
+- 🔭 I’m currently working on a new portfolio app Gnemes and learning Go Language..
 - 🌱 I’m currently learning the design of Distributed Systems.
 - 👯 I’m looking to collaborate on any app using advanced technology.
 - 🤔 I’m looking for help with ...
