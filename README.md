@@ -25,7 +25,8 @@
 ## 概要
 
 - 技術的な物事への勉強能力が強い
-- 短い時間に勉強して即戦力になれる
+- 短い時間に勉強して即戦力になれるType
+
 ## スキル
 
 - 基本的にすべて実業務とプライベートで使用した技術だけを列挙しています。
@@ -36,7 +37,7 @@ Go(主として使っている) | Kotlin(主として使っている) | Java | P
 
 ### フレームワーク等
 
-SpringBoot | Spring | Vus.js | React | React Native |
+SpringBoot | Spring | Vus.js | React | React Native | Iris
 
 ### RDB/NoSQL
 
