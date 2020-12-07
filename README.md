@@ -17,15 +17,15 @@
 |----|----|
 |名前|Chen BoFeng|
 |現住地|東京大田区大森|
-|ポートフォリオ|[Gnemes](https://github.com/Trilingual-byford/Gnemes) (工事中)|
+|ポートフォリオ|[Gnemes](https://github.com/Trilingual-byford/Gnemes) (工事中)Go Refactoring->(https://github.com/Trilingual-byford/Gnemes-Memes)|
 |英語力|ハーフNativeレベル|
 |日本語力|上級者|
 |年齢|二十代|
 
 ## 概要
 
-工事中
-
+- 技術的な物事への勉強能力が強い
+- 短い時間に勉強して即戦力になれる
 ## スキル
 
 - 基本的にすべて実業務とプライベートで使用した技術だけを列挙しています。
@@ -150,6 +150,3 @@ Kubernetes | Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearc
 - 携帯DB暗号化技術調査・実装
 
 【発揮したバリュー】日本での初めてのプロジェクトだが、今まで培ってきたノウハウ・開発経験・英語・日本語を活かしてチームの生産性向上に大きく貢献、Module化開発は実務で初体験であったが各種書籍やネット情報をフル活用して複雑なLogicによる生じたバグを突き止めるなど技術調査業務でも貢献。
-
- 
- ----------------------------------上記は日本で行ったプロジェクトでしたーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー!.
