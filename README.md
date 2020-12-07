@@ -87,15 +87,15 @@ Kubernetes | Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearc
 【担当業務】言語はTypeScirpt、フレームワークとライブラリはReactとReduxを使用し、主にアプリケーション全体のクラス（DTO、画面）設計と、Googleマープを使って位置周りの機能実装と各種画面の実装作業、テスト/デバッグ作業等を担当,具体的には下記。(作業人員は約８名)
  
  - 新人教育・技術サポート
- - 環境構築手順を書く・環境構築サポート
+ - 環境構築手順作成・環境構築サポート
  - ソースレビュー
- - 新機能実装のために技術調査
- - GoogleMapのAPI調査・運用
+ - 新機能実装のための技術調査
+ - GoogleMapなどのAPI調査・運用
  - UI/UXの実装
  - LinterやFormatterの導入
  - Release作業
  - Gitブランチ管理
- - 画面設計書・画面遷移図作成
+ - 画面設計書・画面遷移図など資料の作成
  - 最新のNeedsにより、デザイン作成・仕様改修
  - APIMockサーバーの導入及び更新
 
