@@ -32,7 +32,7 @@
 
 ### 言語
 
-Kotlin(主として使っている) | Java | Python | JavaScript | TypeScript | Action Script
+Go(主として使っている) | Kotlin(主として使っている) | Java | Python | JavaScript | TypeScript | Action Script
 
 ### フレームワーク等
 
