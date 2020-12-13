@@ -11,13 +11,15 @@
 --> The first oranges weren’t orange
 # 業務経歴書
 
+英語バージョンはこちら
+
 ## 基本情報
 
 |key|value|
 |----|----|
 |名前|Chen BoFeng|
 |現住地|東京大田区大森|
-|ポートフォリオ|[Gnemes](https://github.com/Trilingual-byford/Gnemes) (工事中)Go Refactoring->(https://github.com/Trilingual-byford/Gnemes-Memes)|
+|ポートフォリオ|[Gnemes](https://github.com/Trilingual-byford/Gnemes) (工事中)Go Refactoring->[Gnemes_Memes] (https://github.com/Trilingual-byford/Gnemes-Memes)|
 |英語力|ハーフNativeレベル|
 |日本語力|上級者|
 |年齢|二十代|
