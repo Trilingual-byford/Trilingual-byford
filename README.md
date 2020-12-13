@@ -11,7 +11,7 @@
 --> The first oranges weren’t orange
 # 業務経歴書
 
-英語バージョンはこちら
+英語バージョンはこちら [Resume](https://github.com/Trilingual-byford/Gnemes) 
 
 ## 基本情報
 
