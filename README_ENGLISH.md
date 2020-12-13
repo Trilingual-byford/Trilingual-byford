@@ -1,4 +1,4 @@
-# Work history
+# Work experiment
 
 ## Basic Information
 
@@ -14,8 +14,8 @@
 ## Summary
 
 - Strong ability to study technical things.
-- Type to be able to study in a short time and be able to work immediately.
+- Be able to acquire new skill in a short period of time and be able to work immediately.
 
 ## Skills
 
-- Basically all of them are listed only for the technologies that I used in my real work and private life.
+- Basically all of kills are listed here only for the technologies that I used in my real work project and private project.
