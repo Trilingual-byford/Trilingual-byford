@@ -13,7 +13,7 @@
 
 ## Summary
 
-- Strong ability to study technical things.
+- Strong ability to study new technical skills.
 - Be able to acquire new skill in a short period of time and be able to work immediately.
 
 ## Skills
@@ -49,7 +49,8 @@ IntelliJ | WebStorm | AndroidStudo | Visual Studio Code
 ### Other
 
 Kubernetes | Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ |DHCP
-## Tasks where value can be easily demonstrated
+
+## My areas of expertise
 
 - Infrastructure code development
 - Package management (Gradle, Maven)
@@ -68,7 +69,7 @@ Kubernetes | Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearc
 - Work that requires the ability to read source code
 - Work requiring the ability to speak and understand English
 
-## Main work history.
+## My project experience.
 
 ### BtoB service home delivery application development [TypeScript/AndroidStudio/React and React Native/Xcode/Git/Jira/Azure/Sketch/SketchCloud] (2020-present)
 
