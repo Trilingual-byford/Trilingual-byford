@@ -1,6 +1,6 @@
 ### Hi there 👋.
 
-- 🔭 I’m currently reading a novel called World without end（90%）
+- 🔭 I’m currently *****
 - 🌱 I’m currently learning the design of Distributed Systems..
 - 👯 I’m looking to collaborate on any app using advanced technology.
 - 🤔 I’m looking for help with ...
