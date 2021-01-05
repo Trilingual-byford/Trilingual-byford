@@ -1,9 +1,9 @@
 ### Hi there 👋.
 
-- 🔭 I’m currently *****
+- 🔭 I’m currently reading 嫌われる勇気
 - 🌱 I’m currently learning the design of Distributed Systems..
 - 👯 I’m looking to collaborate on any app using advanced technology.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with devOp enviroment integration
 - 💬 Ask me about ...
 - 📫 How to reach me: niconicocsc@gmail.com
 - 😄 Pronouns: ....
