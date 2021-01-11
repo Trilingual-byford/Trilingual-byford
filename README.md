@@ -82,8 +82,23 @@ Kubernetes | Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearc
 - 英会話・英語が知る前提の業務
 
 ## 主な業務経歴
+### BtoBサービスの宅配サービスBackEnd開発・リファクタリング【Java/IntellJ/Gradle/PostMan・postmanMockServer/Git/Jira/Azure/Docker/NexusRepository/SqlServer/Azure】(2020年~現在)
 
-### BtoBサービスの宅配アプリ開発【TypeScript/AndroidStudio/React・React Native/Xcode/Git/Jira/Azure/Sketch/SketchCloud】(2020年〜現在)
+【プロジェクト概要】BtoBサービスの宅配新規開発チームにおいて、現存ソースコードを解析・運用,サービスのリファクタリング、開発環境構築周り技術調査を担当
+
+【担当業務】言語はJava、フレームワークとライブラリはSpringBootを使用し、主にアプリケーション全体のクラス（DTO、画面）設計と、Googleマープを使って位置周りの機能実装と各種画面の実装作業、テスト/デバッグ作業等を担当,具体的には下記。(作業人員は約８名)
+ 
+ - 技術サポート
+ - 環境構築手順作成・環境構築サポート
+ - ソースレビュー
+ - 現存ソースコード解析のための技術調査
+ - 画面設計書・画面遷移図など資料の作成
+ - Debug
+ - APIMockサーバー（スタブサーバー）の方針決めと導入及び更新
+
+【発揮したバリュー】工事中......
+
+### BtoBサービスの宅配アプリ開発【TypeScript/AndroidStudio/React・React Native/Xcode/Git/Jira/Azure/Sketch/SketchCloud】(2020年)
 
 【プロジェクト概要】BtoBサービスの宅配新規開発チームにおいて、UI・UXの実装/CI基盤構築、新機能の導入・検討の開発作業等を担当
 
