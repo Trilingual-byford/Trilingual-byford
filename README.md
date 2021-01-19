@@ -1,6 +1,6 @@
 ### Hi there 👋.
 
-- 🔭 I’m currently reading 嫌われる勇気
+- 🔭 I’m currently reading 嫌われる勇気.
 - 🌱 I’m currently learning the JVM Optimization
 - 👯 I’m looking to collaborate on any app using advanced technology.
 - 🤔 I’m looking for help with devOp enviroment integration
