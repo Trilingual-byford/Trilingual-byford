@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning the JVM Optimization
 - 👯 I’m looking to collaborate on any app using advanced technology.
 - 🤔 I’m looking for help with devOp enviroment integration
-- 💬 Ask me about ...
+- 💬 Ask me about anime・piano・Gaming
 - 📫 How to reach me: niconicocsc@gmail.com
 - 😄 Pronouns: ....
 - ⚡ Fun fact: ...。
