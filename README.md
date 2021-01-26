@@ -3,7 +3,7 @@
 - 🔭 I’m currently reading 嫌われる勇気/Born a Crime.
 - 🌱 I’m currently learning the JVM Optimization
 - 👯 I’m looking to collaborate on any app using advanced technology.
-- 🤔 I’m looking for help with devOp enviroment integration
+- 🤔 I’m looking for a intimacy relationship
 - 💬 Ask me about anime・piano・Gaming
 - 📫 How to reach me: niconicocsc@gmail.com
 - 😄 Pronouns: ....
