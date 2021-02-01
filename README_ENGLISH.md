@@ -8,8 +8,8 @@
 |current address|Omori, Ota-ku, Tokyo|
 |portfolio|[Gnemes](https://github.com/Trilingual-byford/Gnemes) (under construction)Go Refactoring->(https://github.com/Trilingual-byford/Gnemes- Memes)|
 |English Proficiency|Half Native Level|
-|English Proficiency|Half Native Level| |Japanese Proficiency|Advanced Level
-|Age|twenties|
+|Japanese Proficiency|Advanced Level|
+|Age|twenties+|
 
 ## Summary
 
