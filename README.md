@@ -8,7 +8,7 @@
 - 📫 How to reach me: niconicocsc@gmail.com
 - 😄 Pronouns: ....
 - ⚡ Fun fact: ...。
---> The first oranges weren’t orange
+--> The first oranges weren’t orange.
 # 業務経歴書
 
 英語バージョンはこちら [Resume](https://github.com/Trilingual-byford/Trilingual-byford/blob/master/README_ENGLISH.md) 
