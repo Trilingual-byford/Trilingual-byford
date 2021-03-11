@@ -168,3 +168,55 @@ Kubernetes | Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearc
 - 携帯DB暗号化技術調査・実装
 
 【発揮したバリュー】日本での初めてのプロジェクトだが、今まで培ってきたノウハウ・開発経験・英語・日本語を活かしてチームの生産性向上に大きく貢献、Module化開発は実務で初体験であったが各種書籍やネット情報をフル活用して複雑なLogicによる生じたバグを突き止めるなど技術調査業務でも貢献。
+
+
+Music Wall
+----------
+:musical_score: A small collection of videos that helped in the creation of this Document. =)
+
+<table>
+<tr>
+<td>
+    <a href=
+    "http://www.youtube.com/watch?feature=player_embedded&v=1lyu1KKwC74"
+    target="_blank"><img alt="The Verve" border="10" height="180"
+    src="http://img.youtube.com/vi/1lyu1KKwC74/0.jpg" width=
+    "240"></a>
+</td>
+<td>
+    <a href=
+    "http://www.youtube.com/watch?feature=player_embedded&v=DHAMh2-cviA"
+    target="_blank"><img alt="Missing Persons" border="10" height="180" src=
+    "http://img.youtube.com/vi/DHAMh2-cviA/0.jpg" width="240"></a>
+</td>
+<td>
+    <a href=
+    "http://www.youtube.com/watch?feature=player_embedded&v=7xzU9Qqdqww"
+    target="_blank"><img alt="Cudi" border="10" height="180" src=
+    "http://img.youtube.com/vi/7xzU9Qqdqww/0.jpg" width="240"></a>
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+    <a href="http://www.youtube.com/watch?feature=player_embedded&v=nXri9t8yrr4" target="_blank">
+        <img src="http://img.youtube.com/vi/nXri9t8yrr4/0.jpg" alt="Kuffdam & Plant" width="240" height="180" border="10" />
+    </a>
+</td>
+<td>
+    <a href=
+    "http://www.youtube.com/watch?feature=player_embedded&v=FyASdjZE0R0"
+    target="_blank"><img alt="NIN" border="10" height="180" src=
+    "http://img.youtube.com/vi/FyASdjZE0R0/0.jpg" width="240"></a>
+</td>
+<td>
+    <a href=
+    "http://www.youtube.com/watch?feature=player_embedded&v=dd00Qh9yZUg"
+    target="_blank"><img alt="Glitch Mob" border="10" height="180" src=
+    "http://img.youtube.com/vi/dd00Qh9yZUg/0.jpg" width="240"></a>
+</td>
+</tr>
+
+</table>
