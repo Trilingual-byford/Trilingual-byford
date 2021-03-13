@@ -61,7 +61,7 @@ IntelliJ | WebStorm | AndroidStudo | Visual Studio Code
 
 ### その他
 
-Kubernetes | Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ |DHCP | Nexus(Artifact repository)
+Kubernetes | Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ |DHCP | Nexus(Artifact repository) | Jvm
 ## バリューを発揮しやすい業務
 
 - 基盤コード開発
@@ -90,13 +90,14 @@ Kubernetes | Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearc
  
  - 技術サポート
  - 環境構築手順作成・環境構築サポート
+ - Dockerで開発環境構築・保守（Sqlサーバー、NexusRepositoryなど）
  - ソースレビュー
+ - 開発Flowに関する技術を調査
+ - Groovyでテストする技術調査・先行作業（Muiltiデータソースの場合の設定と基盤ソースの構築）
  - 現存ソースコード解析のための技術調査
- - 画面設計書・画面遷移図など資料の作成
- - Debug
  - APIMockサーバー（スタブサーバー）の方針決めと導入及び更新
 
-【発揮したバリュー】工事中......
+【発揮したバリュー】開発全番担当（機能実装からテストまで）、開発環境構築作業・技術調査を担当、技術サポート・Debugサポート、全プロジェクトの半分くらいのAPIを先行開発した.　工事中...............
 
 ### BtoBサービスの宅配アプリ開発【TypeScript/AndroidStudio/React・React Native/Xcode/Git/Jira/Azure/Sketch/SketchCloud】(2020年)
 
