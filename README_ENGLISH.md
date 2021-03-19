@@ -124,9 +124,9 @@ You will be responsible for designing the overall architecture of the applicatio
 
 [Demonstrated Value] Although this was my first experience with Vue.js, I was able to catch up in a short period of time by demonstrating my ability to learn quickly. I researched how to write test cases around Jest in the technical research team, and shared how to write test cases with the development team members. However, he was able to contribute to the team in many ways by demonstrating his strengths of quick learning and utility.
 
-### Official app for a major bank [Kotlin/MVP/JavaScript/Retrofit/Realm/MoneyTreeApi/Xcode/Swift/GitLab/TestFlight/Moduleization] (2018)
+### Official app for a major bank of Japan [Kotlin/MVP/JavaScript/Retrofit/Realm/MoneyTreeApi/Xcode/Swift/GitLab/TestFlight/Moduleization] (2018)
 
-Project Summary] Development of an official application for a major bank.
+Project Summary] Development of an official application for a major bank of Japan.
 
 [Responsibilities] Functional implementation and source review by architectural design MVP, building Beta testing environment by TestFlight, functional implementation and testing around the screen.
 
