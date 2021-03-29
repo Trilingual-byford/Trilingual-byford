@@ -61,7 +61,7 @@ IntelliJ | WebStorm | AndroidStudo | Visual Studio Code
 
 ### その他
 
-Kubernetes | Docker | Jenkins | nginx | Apache | Tomcat | Webpack | Elasticsearch | RabbitMQ |DHCP | Nexus(Artifact repository) | Jvm
+Kubernetes | Docker | Jenkins | nginx | Apache | Webpack | Elasticsearch | RabbitMQ |DHCP | Nexus(Artifact repository) | Jvm
 ## バリューを発揮しやすい業務
 
 - 基盤コード開発
