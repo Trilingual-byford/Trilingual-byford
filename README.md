@@ -97,6 +97,7 @@ Kubernetes | Docker | Jenkins | nginx | Apache | Webpack | Elasticsearch | Rabbi
  - 現存ソースコード解析のための技術調査
  - APIMockサーバー（スタブサーバー）の方針決めと導入及び更新
  - Monolithプロジェクトを適切に分割、共通ロジック抽出モジュール共通化
+ - FrontEnd、BackEnd連携障害対応
 
 【発揮したバリュー】開発全番担当（機能実装からテストまで）、開発環境構築作業・技術調査を担当、技術サポート・Debugサポート、全プロジェクトの半分くらいのAPIを先行開発した.　工事中...............
 
