@@ -82,7 +82,7 @@ Kubernetes | Docker | Jenkins | nginx | Apache | Webpack | Elasticsearch | Rabbi
 - 英会話・英語が知る前提の業務
 
 ## 主な業務経歴
-### BtoBサービスの宅配サービスBackEnd開発・リファクタリング【Java/IntellJ/Gradle/PostMan・postmanMockServer/Git/Jira/Azure/Docker/NexusRepository/SqlServer/Azure】(2020年~現在)
+### BtoBサービスの宅配サービスBackEnd開発・リファクタリング【Java/IntellJ/Gradle/Eclipse/PostMan・postmanMockServer/Git/Jira/Azure/Docker/NexusRepository/SqlServer/Azure】(2020年~現在)
 
 【プロジェクト概要】BtoBサービスの宅配新規開発チームにおいて、現存ソースコードを解析・運用,サービスのリファクタリング、開発環境構築周り技術調査を担当
 
