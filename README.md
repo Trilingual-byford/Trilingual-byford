@@ -1,6 +1,6 @@
 ### Hi there 👋.
 
-- 🔭 I’m currently reading Game of throne
+- 🔭 I’m currently reading what is economy
 - 🌱 I’m currently learning the JVM Optimization
 - 👯 I’m looking to collaborate on any app using advanced technology.
 - 🤔 I’m looking for a intimacy relationship
