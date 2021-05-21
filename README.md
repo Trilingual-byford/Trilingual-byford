@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning the JVM Optimization
 - 👯 I’m looking to collaborate on any app using advanced technology.
 - 🤔 I’m looking for a intimacy relationship
-- 💬 Ask me about anime・piano・Gaming・Language Learning Skill
+- 💬 Ask me about anime・piano・Gaming・Language Learning Tips
 - 📫 How to reach me: niconicocsc@gmail.com
 - 😄 Pronouns: ....
 - ⚡ Fun fact: ...。
