@@ -89,12 +89,15 @@ I went to the office,as I had to do some testing related tasks that could only b
 ```
 May 16 
 ```
-I had leisure day.I woke up at 11:30,but I didn't get up untill 12:30.I was guessing that wasting time is the nature of human.After that I went out for a meal and managed to buy a acne remedy on my way back home.
+I had a leisure day.I woke up at 11:30,but I didn't get up until 12:30.I was guessing that wasting time was the natural instinct in the human body.After that, I went out for a meal,and than bought an acne remedy on my way back home.
 ```
- May 17 
+May 17 
 ```
-I was a bit depressed during the night.I went out to workout at 24:00.However,I couldn't not start workout inmediately when I arrived the party.I end up procrasnated for almost 2 hours by watching videos,messages with phone in the cold night.This is so dumb.
-May 18 I did a research about the price of the snack food Juju with walnut online.This snack I could found at Chinese commerical website is 3 times cheaper than I can find in Japan.I was shocked,Then I did another round of research about it.At last,I found that the brand of this snack I can buy Japan is more expensive than anothers.
+I was a bit depressed during the night.I went out to workout at 00:00.However,I couldn't start working out inmediately when I arrived at party.I ended up procrastinating for almost 2 hours by watching videos as well as messages on my phone in the cold night.This is so dumb.
+```
+May 18 
+```
+I did a research about the price of the snack food Juju with walnut online.This snack I could found at Chinese commerical website is 3 times cheaper than I can find in Japan.I was shocked,Then I did another round of research about it.At last,I found that the brand of this snack I can buy Japan is more expensive than anothers.
 ```
  May 19 
 ```
