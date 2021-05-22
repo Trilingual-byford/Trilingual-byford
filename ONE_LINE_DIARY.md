@@ -27,6 +27,8 @@ May 18 I did a research about the price of the snack food Juju with walnut onlin
 May 19 I bought two takeout after I clock out from work.One is for today's dinner and another one is for tomorrow's lunch.I found that I did't do much cooking after I moved to here,I thought one of reason is that freezer is too small for me to save the food that I usually would make.I'm a fan of making large amount of dishes in one time.what I usually did is that I would make full pot of chicken curry which I could eat it for at least 3 days.So I didn't need to cook everyday.
 May 20 Today is said to be the Chinese valentine's day.Because "5.20" in Chinese sounds similar to I love you in Chinese.In this day,I had a small talk with Vanessa after work,She asked what kind of girl I like,I said I don't know.I tried to separate the questions into two which is what kind of girl I like in terms of appearance and in terms of personality.At Last She asked me if She is the type of girl I like,I didn't reply but I said that You can be the heroine.
 May 21
+
 ```
 Friday is the busiest day in a week.We worked till 2:00 in the morning.But the strange thing is during the day time,there are not many tasks to do.
+ 
 ```
