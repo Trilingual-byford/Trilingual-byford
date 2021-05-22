@@ -99,8 +99,7 @@ May 18
 ```
 I did research about the price of the snack food called Juju with walnut online.This snack I can find at a Chinese commerical website for 3 times cheaper than I can find it in Japan.I was shocked, than I did another round of research about it, in which lastly the brand of this snack, I can buy in Japan, which is more expensive than the anothers.
 ```
-<p><span style="color:blue">May 19</span></p>
-<span style="color:red">some **This is Red Bold.** text</span>
+May 19 We are here
 
 ``` 
 I bought two takeout meal after I clocked out from work.One meal is for today's dinner and the another one is for tomorrow's lunch.I found that I didn't do much cooking after I move to here.I thought one of the reasons was that freezer was too small for me to save the food that I usually make.I'm a fan of making large amount of dishes in one time.what I usually did was to make a full pot of chicken curry,which I could eat for at least 3 days.So that, I don't need to cook everyday.
