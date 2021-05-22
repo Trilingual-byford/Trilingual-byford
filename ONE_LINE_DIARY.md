@@ -93,15 +93,15 @@ I had a leisure day.I woke up at 11:30,but I didn't get up until 12:30.I was gue
 ```
 May 17 
 ```
-I was a bit depressed during the night.I went out to workout at 00:00.However,I couldn't start working out inmediately when I arrived at party.I ended up procrastinating for almost 2 hours by watching videos as well as messages on my phone in the cold night.This is so dumb.
+I was a bit depressed during the night. I went out to workout at 00:00.However,I couldn't start working out inmediately when I arrived at the park.I ended up procrastinating for almost 2 hours by watching videos, as well as messages on my phone in the cold night.This is so dumb.
 ```
 May 18 
 ```
-I did a research about the price of the snack food Juju with walnut online.This snack I could found at Chinese commerical website is 3 times cheaper than I can find in Japan.I was shocked,Then I did another round of research about it.At last,I found that the brand of this snack I can buy Japan is more expensive than anothers.
+I did research about the price of the snack food called Juju with walnut online.This snack I can find at a Chinese commerical website for 3 times cheaper than I can find it in Japan.I was shocked, than I did another round of research about it, in which lastly the brand of this snack, I can buy in Japan, which is more expensive than the anothers.
 ```
- May 19 
-```
-I bought two takeout after I clock out from work.One is for today's dinner and another one is for tomorrow's lunch.I found that I did't do much cooking after I moved to here,I thought one of reason is that freezer is too small for me to save the food that I usually would make.I'm a fan of making large amount of dishes in one time.what I usually did is that I would make full pot of chicken curry which I could eat it for at least 3 days.So I didn't need to cook everyday.
+<span style="color:blue">May 19</span>.
+``` 
+I bought two takeout meal after I clocked out from work.One meal is for today's dinner and the another one is for tomorrow's lunch.I found that I didn't do much cooking after I move to here.I thought one of the reasons was that freezer was too small for me to save the food that I usually make.I'm a fan of making large amount of dishes in one time.what I usually did was to make a full pot of chicken curry,which I could eat for at least 3 days.So that, I don't need to cook everyday.
 ```
  May 20 
 ```
