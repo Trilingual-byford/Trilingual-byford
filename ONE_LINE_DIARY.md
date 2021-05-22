@@ -86,7 +86,10 @@ I did research online to find a way to remove the acne scar on my back.The resul
 May 15 
 ```
 I went to the office,as I had to do some testing related tasks that could only be done with a real mobile phone ,instead of a simulator.We worked until 23:00 Because the project could not compile suddenly due to someone that previously updated some coding,in which lead to this issue.We had to wait for hours to continue the test until Mrs.Saitou fixed this bug.
-May 16 I had leisure day.I woke up at 11:30,but I didn't get up untill 12:30.I was guessing that wasting time is the nature of human.After that I went out for a meal and managed to buy a acne remedy on my way back home.
+```
+May 16 
+```
+I had leisure day.I woke up at 11:30,but I didn't get up untill 12:30.I was guessing that wasting time is the nature of human.After that I went out for a meal and managed to buy a acne remedy on my way back home.
 ```
  May 17 
 ```
