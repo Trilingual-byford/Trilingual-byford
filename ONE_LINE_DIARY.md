@@ -115,5 +115,9 @@ Friday is the busiest day in a week.We worked till 2:00 in the morning.But the s
 ```
 May 22
 ```
-Saturday!
+I rented a switch account from a Chinese second hand platform.With this account I can play 3 games for one month.I always wanted to play splatoon2,so I had my first slatoon2 regular game today.I was impressed by the cute sound effect and background music in this game.
+```
+May 23
+```
+I woke up at 11:30.The first thing I did was workout at park.What a sunny day today was!I was sitting down on the park's bench,A little girl was learning how to ride bycicle with her mom around.At the night before the Japanese lesson,the landlord nod my room's door and shared the some unique street foods they just made to me.I finished the food just before the Japanese lesson started.
 ```
