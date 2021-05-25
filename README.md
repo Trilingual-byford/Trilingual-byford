@@ -17,7 +17,7 @@
 
 |key|value|
 |----|----|
-|名前|Chen BoFeng|
+|名前|CHEN BO FENG (ENG:Byford Chen)|
 |現住地|東京大田区大森|
 |ポートフォリオ|[Gnemes](https://github.com/Trilingual-byford/Gnemes) (工事中)Go Refactoring->[Gnemes_Memes] (https://github.com/Trilingual-byford/Gnemes-Memes)|
 |英語力|ハーフNativeレベル|
