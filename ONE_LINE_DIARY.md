@@ -121,3 +121,11 @@ May 23
 ```
 I woke up at 11:30.The first thing I did was workout at park.What a sunny day today was!I was sitting down on the park's bench,A little girl was learning how to ride bycicle with her mom around.At the night before the Japanese lesson,the landlord nod my room's door and shared the some unique street foods they just made to me.I finished the food just before the Japanese lesson started.
 ```
+May 24
+```
+I went to one of the branches of Immigration Services Agency of Japan to extend my Visa.I ended up spending 5 hours there to wait in the line for hand over my application form.However,I think that I can be considered as the lucky one because I figured out how many application they could handle each hour and estimate the time when it's my turn.I went out having lunch instead of staying at the small hall with so many people here.
+```
+May 25
+```
+I was informed that the paper I prepared to extend Visa is unsufficient.I need to get a tax payment certification from city hall instead of tax office.Than I went by the city hall of Saitama on my way to office for working.However,The staff there told me that I need to go back where I lived to get the tax payment certification.So I guess that I need to visit one more place to collect the paper.
+```
