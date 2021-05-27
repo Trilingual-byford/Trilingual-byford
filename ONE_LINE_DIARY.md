@@ -129,4 +129,11 @@ May 25
 ```
 I was informed that the paper I prepared to extend Visa is unsufficient.I need to get a tax payment certification from city hall instead of tax office.Than I went by the city hall of Saitama on my way to office for working.However,The staff there told me that I need to go back where I lived to get the tax payment certification.So I guess that I need to visit one more place to collect the paper.
 ```
-
+May 26
+```
+I had to get up around 9:00 since I have to go to the office around 10:00.Some notification about news came to my phone.I read some of them,One said there were more 4000 people was tested having Covid 19 yesterday each day in Japan.Another one said most Japanese is up agaist the Opening of Olympics in Japan this year,but if the goverment failed to stick to the plan,the money the spent on applying Olympics would not be refund which is a huge financial lost for Japan.what a dilemma.
+```
+May 27
+```
+I got off from work around 7:00,than I went to a Chinese restaurant near to my office for dinner.A set including vegetable noodle and fried rice was ordered by me.I thought the taste must be good,however,I felt like it doesn't as tasty as the one I had here one month ago.The Chinese leaf in the noodle was a bit bitter,and the fried rice was also too mild for me.In the end,I was still stuffed.
+```
