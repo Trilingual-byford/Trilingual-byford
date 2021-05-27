@@ -129,3 +129,4 @@ May 25
 ```
 I was informed that the paper I prepared to extend Visa is unsufficient.I need to get a tax payment certification from city hall instead of tax office.Than I went by the city hall of Saitama on my way to office for working.However,The staff there told me that I need to go back where I lived to get the tax payment certification.So I guess that I need to visit one more place to collect the paper.
 ```
+
