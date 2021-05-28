@@ -99,16 +99,16 @@ May 18
 ```
 I did research about the price of the snack food called Juju with walnut online.This snack I can find at a Chinese commerical website for 3 times cheaper than I can find it in Japan.I was shocked, than I did another round of research about it, in which lastly the brand of this snack, I can buy in Japan, which is more expensive than the anothers.
 ```
-May 19 We are here
+May 19 
 
 ``` 
-I bought two takeout meal after I clocked out from work.One meal is for today's dinner and the another one is for tomorrow's lunch.I found that I didn't do much cooking after I move to here.I thought one of the reasons was that freezer was too small for me to save the food that I usually make.I'm a fan of making large amount of dishes in one time.what I usually did was to make a full pot of chicken curry,which I could eat for at least 3 days.So that, I don't need to cook everyday.
+I bought two takeout meals after I clocked out from work.One meal was for today's dinner and the other one was for tomorrow's lunch.I found that I didn't do much cooking after the new area that I moved to.I thought one of the reasons for this was that the freezer was too small for me to save the food that I usually made.I'm a fan of making large amount of dishes at once. What I usually did was to make a full pot of chicken curry,in which I could eat for at least 3 days, so that I didn't need to cook everyday.
 ```
  May 20 
 ```
-Today is said to be the Chinese valentine's day.Because "5.20" in Chinese sounds similar to I love you in Chinese.In this day,I had a small talk with Vanessa after work,She asked what kind of girl I like,I said I don't know.I tried to separate the questions into two which is what kind of girl I like in terms of appearance and in terms of personality.At Last She asked me if She is the type of girl I like,I didn't reply but I said that You can be the heroine.
+Today is said to be Chinese Valentine's Day because "5.20" in Chinese sounds similar to "I love you".On this day,I had a small talk with Vanessa after work,in which she asked what kind of girl that I liked,and I responded to her that I didn't know.I tried to separate the questions into two forms, which was what kind of girl that I liked in terms of appearance ,as well as personality.Lastly, she asked me that if she was the type of girl that I liked. I didn't reply, but I said to her that she could be the heroine.
 ```
- May 21
+ May 21 We are here now
 ```
 Friday is the busiest day in a week.We worked till 2:00 in the morning.But the strange thing was during the day time,there are not many tasks to do.
  
