@@ -108,22 +108,22 @@ I bought two takeout meals after I clocked out from work.One meal was for today'
 ```
 Today is said to be Chinese Valentine's Day because "5.20" in Chinese sounds similar to "I love you".On this day,I had a small talk with Vanessa after work,in which she asked what kind of girl that I liked,and I responded to her that I didn't know.I tried to separate the questions into two forms, which was what kind of girl that I liked in terms of appearance ,as well as personality.Lastly, she asked me that if she was the type of girl that I liked. I didn't reply, but I said to her that she could be the heroine.
 ```
- May 21 We are here now
+ May 21
 ```
-Friday is the busiest day in a week.We worked till 2:00 in the morning.But the strange thing was during the day time,there are not many tasks to do.
+Friday is the busiest day of the week.We worked until 02:00 in the morning.However, the strange thing was that during the day time there were not many tasks to do.
  
 ```
 May 22
 ```
-I rented a switch account from a Chinese second hand platform.With this account I can play 3 games for one month.I always wanted to play splatoon2,so I had my first slatoon2 regular game today.I was impressed by the cute sound effect and background music in this game.
+I rented a Nintendo switch account from a Chinese second hand platform.With this account, I could play 3 games for only one month.I always wanted to play Splatoon 2,in which I had my first regular game today in this regard.I was impressed by the cute sound effects and background music in this game.
 ```
 May 23
 ```
-I woke up at 11:30.The first thing I did was workout at park.What a sunny day today was!I was sitting down on the park's bench,A little girl was learning how to ride bycicle with her mom around.At the night before the Japanese lesson,the landlord nod my room's door and shared the some unique street foods they just made to me.I finished the food just before the Japanese lesson started.
+I woke up at 11:30.The first thing that I did was to workout at the park.It was such a sunny day today! I was sitting down on the park's bench,in which a little girl was learning how to ride her bicycle with her mom around.At night, before the Japanese lesson,the landlord knocked on my room's door and shared some unique street foods that they just made to me.I finished the food just before the Japanese lesson started.
 ```
-May 24
+May 24 we are here
 ```
-I went to one of the branches of Immigration Services Agency of Japan to extend my Visa.I ended up spending 5 hours there to wait in the line for hand over my application form.However,I think that I can be considered as the lucky one because I figured out how many application they could handle each hour and estimate the time when it's my turn.I went out having lunch instead of staying at the small hall with so many people here.
+I went to one of the branches of the Immigration Services Agency of Japan to extend my visa.I ended up spending 5 hours to wait in the line for my application form that i have to hand over to the staff.However,I think that I can be considered lucky because I figured out how many applications they could handle each hour and estimate the time when it's my turn.I went out having lunch instead of staying at the small hall with so many people here.
 ```
 May 25
 ```
