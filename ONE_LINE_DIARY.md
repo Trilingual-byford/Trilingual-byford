@@ -137,3 +137,8 @@ May 27
 ```
 I got off from work around 7:00,than I went to a Chinese restaurant near to my office for dinner.A set including vegetable noodle and fried rice was ordered by me.I thought the taste must be good,however,I felt like it doesn't as tasty as the one I had here one month ago.The Chinese leaf in the noodle was a bit bitter,and the fried rice was also too mild for me.In the end,I was still stuffed.
 ```
+May 28
+```
+I played several games on switch.I can tell that they all are pretty interesting game.One of the game that impressed me is called "Binding of Isaac: Rebirth".In this game,A kid was chased to the Basement by his mom.It turned out that the basement was a world of dungeon.The child,Isaac,use his eye shooting drops of tears to defeat the monster in the dungeon world.One of the features in this game that impressed is that the monsters is human like.For example,One of the Boss is only a head that shoot blood tears or black material.After it got defeated/killed the blood spread everywhere.
+```
+
