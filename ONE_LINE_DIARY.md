@@ -119,7 +119,7 @@ I rented a Nintendo switch account from a Chinese second hand platform.With this
 ```
 May 23
 ```
-I woke up at 11:30.The first thing that I did was to workout at the park.It was such a sunny day today! I was sitting down on the park's bench,in which a little girl was learning how to ride her bicycle with her mom around.At night, before the Japanese lesson,the landlord knocked on my room's door and shared some unique street foods that they just made to me.I finished the food just before the Japanese lesson started.
+I woke up at 11:30.The first thing that I did was to workout at the park.It was such a sunny day today! I was sitting down on the park's bench,in which a little girl was learning how to ride her bicycle with her mom around.At night, before the Japanese lesson,the landlord knocked on my room's door and shared with me some special street foods they just made.I finished the food just before the Japanese lesson started.
 ```
 May 24 we are here
 ```
