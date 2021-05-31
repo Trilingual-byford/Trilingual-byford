@@ -141,4 +141,11 @@ May 28
 ```
 I played several games on switch.I can tell that they all are pretty interesting game.One of the game that impressed me is called "Binding of Isaac: Rebirth".In this game,A kid was chased to the Basement by his mom.It turned out that the basement was a world of dungeon.The child,Isaac,use his eye shooting drops of tears to defeat the monster in the dungeon world.One of the features in this game that impressed is that the monsters is human like.For example,One of the Boss is only a head that shoot blood tears or black material.After it got defeated/killed the blood spread everywhere.
 ```
-
+May 29
+```
+At the night,I took a shower and went upstairs to my room.I entered my room and started organizing my clothes,A moth showed up out of nowwhere and was flying around me.I feel annoyed than reached out my hand intuitively trying to grabbed it in flight.I thought that I would failed to caught it.However,when I check my hand,A moth's body was sticked to one of my finger by its body fluids.At that moment I don't know if I should be in good mood or bad.I did killed a bug that it annoying but I just took a shower and I got my hand dirty.
+```
+May 30
+```
+During the day time,I had the half leftover pizza that I bought yesterday.I was amazed by how long a pizza can keep you away from feeling hungry.Normally I get hungry easily,but after I had the pizza the feeling of hunger never came for two whole days,and one pizza only cost me 600yen.Therefore,Buying pizza for daily life might be the most cost effient way to live in Japan if you were poor.
+```
