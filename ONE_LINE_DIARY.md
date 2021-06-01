@@ -149,3 +149,7 @@ May 30
 ```
 During the day time,I had the half leftover pizza that I bought yesterday.I was amazed by how long a pizza can keep you away from feeling hungry.Normally I get hungry easily,but after I had the pizza the feeling of hunger never came for two whole days,and one pizza only cost me 600yen.Therefore,Buying pizza for daily life might be the most cost effient way to live in Japan if you were poor.
 ```
+May 31
+```
+I developed three habits.
+```
