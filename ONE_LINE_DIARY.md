@@ -143,7 +143,7 @@ I played several games on switch.I can tell that they all are pretty interesting
 ```
 May 29
 ```
-At the night,I took a shower and went upstairs to my room.I entered my room and started organizing my clothes,A moth showed up out of nowwhere and was flying around me.I feel annoyed than reached out my hand intuitively trying to grabbed it in flight.I thought that I would failed to caught it.However,when I check my hand,A moth's body was sticked to one of my finger by its body fluids.At that moment I don't know if I should be in good mood or bad.I did killed a bug that it annoying but I just took a shower and I got my hand dirty.
+At the night,I took a shower and went upstairs to my room.I entered my room and started organizing my clothes,A moth showed up out of nowwhere and was flying around me.I feel annoyed than reached out my hand intuitively trying to grabbed it in flight.I thought that I would failed to caught it.However,when I check my hand,A moth's body was sticked to one of my finger by its body fluids.At that moment I don't know if I should be in good or bad mood .I did killed a bug that it annoying me but I just took a shower and I got my hand dirty.
 ```
 May 30
 ```
@@ -151,5 +151,9 @@ During the day time,I had the half leftover pizza that I bought yesterday.I was 
 ```
 May 31
 ```
-I developed three habits.
+I developed three habits which is wrting a diary,playing piano for 30 minutes and do at least once workout each day.
+```
+June 1
+```
+I worked overtime today.It was around 10:00 when I arrived home.I called my mom when I almost about to finish my dinner.My mom was with my granny in the rural area of hometown.I remembered the last time we had a video call is 2 weeks ago,granny was living in hospital.I seems that grandmom's condition went to the point of no hope to recover.They quitted living at hospital and moved to the place where she was borned.My mom and other siblings is taking turns to look after granny from now.I talked to mom and tried my best to have some conversation with granny,however she looked so tired and couldn't sleep continuously to get enough rest.I think granny already knew that she was about to die， even though mom only told her that she caught cold instead of cancer.
 ```
