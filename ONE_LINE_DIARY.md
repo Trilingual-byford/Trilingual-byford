@@ -157,3 +157,8 @@ June 1
 ```
 I worked overtime today.It was around 10:00 when I arrived home.I called my mom when I almost about to finish my dinner.My mom was with my granny in the rural area of hometown.I remembered the last time we had a video call is 2 weeks ago,granny was living in hospital.I seems that grandmom's condition went to the point of no hope to recover.They quitted living at hospital and moved to the place where she was borned.My mom and other siblings is taking turns to look after granny from now.I talked to mom and tried my best to have some conversation with granny,however she looked so tired and couldn't sleep continuously to get enough rest.I think granny already knew that she was about to die， even though mom only told her that she caught cold instead of cancer.
 ```
+June 2
+```
+Today is the first day of dota2's Major tournament.
+I haven't been playing dota2 seriously for a whole.But watching competition is different.
+```
