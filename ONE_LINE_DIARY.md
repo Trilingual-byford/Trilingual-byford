@@ -165,3 +165,7 @@ However watching competition is thrilling,no need to think about too much just p
 Some times I wonder why there are so many soccer fan in the world and they don't even play soccer,I feel like I'm becomming the kind of fan who only watches 
 but doesn't play it.
 ```
+June 3
+```
+In conclusion,Today is such a long day.I stayed up late to watch the game　until 3:00,On the day time we have a heavy task to follow 
+```
