@@ -1,7 +1,7 @@
 
 April 23 
 ```
-I worked late until 23:20 and I felt burned out.
+I worked overtimr until 23:20 and I felt a bit burned out.
 ```
 April 24 
 ```
