@@ -160,5 +160,8 @@ I worked overtime today.It was around 10:00 when I arrived home.I called my mom 
 June 2
 ```
 Today is the first day of dota2's Major tournament.
-I haven't been playing dota2 seriously for a whole.But watching competition is different.
+I haven't been playing dota2 seriously for a whole as I found that I am not be able to win the game without lots of practices.
+However watching competition is thrilling,no need to think about too much just purely joy.
+Some times I wonder why there are so many soccer fan in the world and they don't even play soccer,I feel like I'm becomming the kind of fan who only watches 
+but doesn't play it.
 ```
