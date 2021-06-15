@@ -169,3 +169,8 @@ June 3
 ```
 In conclusion,Today is such a long day.I stayed up late to watch the game　until 3:00,On the day time we have a heavy task to follow 
 ```
+June 15
+```
+I have been thinking about making a business card with info,in term of what I good at ,what can I offer, on it.With this business card,I would give it to a random girl I met on train station.If they are interested in anything I wrote on the card they can add my Line by  scanning the QR code.It sounds like a way to expand my friend circle.I shared my idea with one of my friend in Tokyo,He is both amazed and confused.He said this idea sounds like one way to do Pyramid scheme.
+``
+```
