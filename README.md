@@ -82,7 +82,17 @@ Kubernetes | Docker | Jenkins | nginx | Apache | Webpack | Elasticsearch | Rabbi
 - 英会話・英語が知る前提の業務
 
 ## 主な業務経歴
-### BtoBサービスの宅配サービスBackEnd開発・リファクタリング【Java/IntellJ/Gradle/Eclipse/PostMan・postmanMockServer/Git/Jira/Azure/Docker/NexusRepository/SqlServer/Azure】(2020年~現在)
+### 宅配サービス・ドライバーアプリ開発・リファクタリング・性能改善・実装・Three layer caching implementation【TypeScript/Azure/shell/AndroidStudio/GitLab】(2021.3~現在)
+
+【プロジェクト概要】BtoBサービスの宅配新規開発チームにおいて、現存ソースコードを解析・運用,サービスのリファクタリング、開発環境構築周り技術調査を担当
+
+【担当業務】工事中
+ 
+ - 技術サポート
+
+
+【発揮したバリュー】工事中
+### BtoBサービスの宅配サービスBackEnd開発・リファクタリング【Java/IntellJ/Gradle/Eclipse/PostMan・postmanMockServer/Git/Jira/Azure/Docker/NexusRepository/SqlServer/Azure】(2020年~2021.2)
 
 【プロジェクト概要】BtoBサービスの宅配新規開発チームにおいて、現存ソースコードを解析・運用,サービスのリファクタリング、開発環境構築周り技術調査を担当
 
@@ -98,8 +108,9 @@ Kubernetes | Docker | Jenkins | nginx | Apache | Webpack | Elasticsearch | Rabbi
  - APIMockサーバー（スタブサーバー）の方針決めと導入及び更新
  - Monolithプロジェクトを適切に分割、共通ロジック抽出モジュール共通化
  - FrontEnd、BackEnd連携障害対応
+ - 単体テスト環境・技術サポート
 
-【発揮したバリュー】開発全番担当（機能実装からテストまで）、開発環境構築作業・技術調査を担当、技術サポート・Debugサポート、全プロジェクトの半分くらいのAPIを先行開発した.　工事中...............
+【発揮したバリュー】開発全番担当（機能実装からテストまで）、開発環境構築作業・技術調査を担当、技術サポート・Debugサポート、全プロジェクトの半分くらいのAPIを先行開発した。JenkinsでCD・CI環境構築支援。Dockerで開発環境を構築・管理。
 
 ### BtoBサービスの宅配アプリ開発【TypeScript/AndroidStudio/React・React Native/Xcode/Git/Jira/Azure/Sketch/SketchCloud】(2020年)
 
