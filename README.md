@@ -82,16 +82,20 @@ Kubernetes | Docker | Jenkins | nginx | Apache | Webpack | Elasticsearch | Rabbi
 - 英会話・英語が知る前提の業務
 
 ## 主な業務経歴
-### 宅配サービス・ドライバーアプリ開発・リファクタリング・性能改善・実装・Three layer caching implementation【TypeScript/Azure/shell/AndroidStudio/GitLab】(2021.3~現在)
+### 宅配サービス・ドライバーアプリ開発・リファクタリング・性能改善・実装・Three Layer Caching【TypeScript/Azure/shell/AndroidStudio/GitLab】(2021.3~現在)
 
-【プロジェクト概要】BtoBサービスの宅配新規開発チームにおいて、現存ソースコードを解析・運用,サービスのリファクタリング、開発環境構築周り技術調査を担当
+【プロジェクト概要】
 
 【担当業務】工事中
  
- - 技術サポート
+ - UseMemo、FlatListなど技術でアプリ性能改善
+ - メモリーCache　実装
+ - DB周り処理改善
+ - バグ対応・テスト
+ - 既存ソースを解析、性能に影響が悪いところを纏める
 
+【発揮したバリュー】アプリ初期表示でかかった時間を大幅に(元々の50％以下)短縮した、まだソースコード解析を発揮、処理上の性能の悪い部分を特定して性能改善案として提出する
 
-【発揮したバリュー】工事中
 ### BtoBサービスの宅配サービスBackEnd開発・リファクタリング【Java/IntellJ/Gradle/Eclipse/PostMan・postmanMockServer/Git/Jira/Azure/Docker/NexusRepository/SqlServer/Azure】(2020年~2021.2)
 
 【プロジェクト概要】BtoBサービスの宅配新規開発チームにおいて、現存ソースコードを解析・運用,サービスのリファクタリング、開発環境構築周り技術調査を担当
