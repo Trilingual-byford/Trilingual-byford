@@ -175,5 +175,5 @@ I have been thinking about making a business card with info,in term of what I go
 ```
 June 24
 ```
-Dont give a fuck about quality from the beginning.Just write some words down!
+Dont give a fuck about quality from the beginning.Just write some words down everyday!
 ```
