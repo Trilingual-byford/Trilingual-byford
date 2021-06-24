@@ -86,7 +86,8 @@ Kubernetes | Docker | Jenkins | nginx | Apache | Webpack | Elasticsearch | Rabbi
 
 【プロジェクト概要】
 
-【担当業務】工事中
+【担当業務】画面あたりのIOを確認し、パフォーマンスのボトルネックとなりそうなものを特定する。 画面のレンダリング性能が大幅に向上し、DBアクセスの効率を最適化にする。
+
  
  - UseMemo、FlatListなど技術でアプリ性能改善
  - メモリーCache　実装
