@@ -177,3 +177,7 @@ June 24
 ```
 Dont give a fuck about quality from the beginning.Just write some words down everyday!
 ```
+June 25
+```
+I said 'May I help you',and was ready to help her carry her travel case upstairs but She said I'm sorry and refused my help.
+```
