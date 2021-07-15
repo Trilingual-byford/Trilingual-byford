@@ -181,3 +181,7 @@ June 25
 ```
 I said 'May I help you',and was ready to help her carry her travel case upstairs but She said I'm sorry and refused my help.
 ```
+July 15
+```
+Venessa said she would not go to Japan.I think it's a good idea.
+```
