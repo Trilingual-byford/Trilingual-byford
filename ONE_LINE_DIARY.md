@@ -185,3 +185,7 @@ July 15
 ```
 Venessa said she would not go to Japan.I think it's a good idea.
 ```
+July 16
+```
+Didn't go swimming today because I am so tired to wake up early. 
+```
