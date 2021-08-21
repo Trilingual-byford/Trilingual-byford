@@ -57,7 +57,7 @@ GitHub | BitBucket(Stash) | CircleCI | TestFlight
 
 ### よく使うIDE
 
-IntelliJ | WebStorm | AndroidStudo | Visual Studio Code
+IntelliJ | WebStorm | AndroidStudo | Visual Studio Code | GoLand
 
 ### その他
 
