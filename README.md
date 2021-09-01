@@ -136,7 +136,7 @@ Kubernetes | Docker | Jenkins | nginx | Apache | Webpack | Elasticsearch | Rabbi
  - 最新のNeedsにより、デザイン作成・仕様改修
  - APIMockサーバーの導入及び更新
 
-【発揮したバリュー】マップの実装もTypeScirptもは全く未経験であったが、書籍やネット上の情報、およびチームリーダーのサポートを得て迅速にキャッチアップ、この時点ではチームリーダーも知らなかったAndroidとIOSカメラの権限申請Flowを調査および理解してアプリに落としこむ等、ここでも学習能力の高さを発揮。まだ[ソースコードを読む能力]とInformation検索力が高いため、技術選択とライブラリの使い方の共有とタスク見える化(看板を使う)に役に立った
+【発揮したバリュー】マップの実装もTypeScirptもは全く未経験であったが、書籍やネット上の情報、およびチームリーダーのサポートを得て迅速にキャッチアップ.機能実装時の技術選択とアドバイス、ライブラリのBest Practice調査、タスク見える化(看板を使う)などタスクを担当
 
 ### 某社英語勉強・会話練習サービスのアプリ開発/新機能追加【ActionScript/Junit/Flash AIR】(2019年)
 
@@ -157,7 +157,7 @@ Kubernetes | Docker | Jenkins | nginx | Apache | Webpack | Elasticsearch | Rabbi
 
 【プロジェクト概要】某社の自動車保険サービスのFrontEndとBackEnd
 
-【担当業務】アプリ全体のアーキテクチャ設計、JenkinsによるCI/CD環境の構築、画面及び音声周りに機能を担当。具体的には下記。
+【担当業務】API実装、Model Object設計、DesignによるWebページ実装、単体テスト、結合テスト。
 
 - 開発環境構築・Document化
 - 技術サポート(Jestテスト)
@@ -178,7 +178,6 @@ Kubernetes | Docker | Jenkins | nginx | Apache | Webpack | Elasticsearch | Rabbi
 
 - Android/IOS 実機テスト・単体テスト・結合テスト
 - Mockサーバー導入
-- CharlieDebug環境構築・指導
 - 家計管理Moduleの画面実装
 - 画面遷移図の制作
 - 仕様変更対応
