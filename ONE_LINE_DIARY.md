@@ -191,5 +191,5 @@ Didn't go swimming today because I am so tired to wake up early.
 ```
 Oct 16
 ```
-I bought a new little box for my cat from MUJI.It is recommended to be used as cloth closet at the shop.But I checked the size, It is perfect fit for my cat. finally I decided to get one as little box.LOL
+I bought a new little box for my cat from MUJI.It is recommended to be used as cloth closet at the shop.But I checked the size, It is perfect fit for my cat. finally I decided to get one as little box.LOL,Luck day.
 ```
