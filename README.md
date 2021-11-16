@@ -82,7 +82,7 @@ Kubernetes | Docker | Jenkins | nginx | Apache | Webpack | Elasticsearch | Rabbi
 - 英会話・英語が知る前提の業務
 
 ## 主な業務経歴
-### 宅配サービス・ドライバーアプリ開発・リファクタリング・性能改善・実装・Three Layer Caching【TypeScript/Azure/shell/AndroidStudio/GitLab/Realm/Xcode】(2021.3~現在)
+### 宅配サービス・ドライバーアプリ開発・リファクタリング・性能改善・実装・Three Layer Caching【TypeScript/Azure/shell/AndroidStudio/GitLab/Realm/Xcode/Kotlin】(2021.3~現在)
 
 【プロジェクト概要】
 
