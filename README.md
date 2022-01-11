@@ -18,7 +18,7 @@
 |key|value|
 |----|----|
 |名前|CHEN BO FENG (ENG:Byford Chen)|
-|現住地|埼玉県川口|
+|現住地|東京都大井町|
 |ポートフォリオ|[Gnemes](https://github.com/Trilingual-byford/Gnemes) (工事中)Go Refactoring->[Gnemes_Memes](https://github.com/Trilingual-byford/Gnemes-Memes)|
 |英語力|ハーフNativeレベル|
 |日本語力|上級者|
